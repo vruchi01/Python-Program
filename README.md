@@ -1,4 +1,4 @@
 # Python-Program
 this is my second Repository
 
-Author - vruchi kachhaiya
+Author - vruchi kachhadiya
